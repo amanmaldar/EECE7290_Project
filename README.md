@@ -24,7 +24,7 @@ What did not work?
 - We made a changes to the ansible script to run the python program as a service. The CORD-POD environment broke everytime we made the changes. So we basically could not deploy it.
 
 2) Running Red5/Mist server
-- CORD runs apache server to build the service. We tried to install red5 server in place of Apache server. Again, CORD-POD broke evrytime.
+- CORD runs apache server to host/run the service. We tried to install red5 server in place of Apache server. Again, CORD-POD broke evrytime.
 
 Troubleshooting-
 - We analysed the logs, understood the sequence of operations for the container after every development loop execution. Did some exeperiemnts to achieve the results.
