@@ -1,8 +1,8 @@
 # SDN for Secure Video Streaming: CORD Based Secure Video Streaming
 
 Students –
-1)	Aman Maldar
-2)	Priyanka Murthy
+1)	Aman Maldar - Aman_Maldar@student.uml.edu
+2)	Priyanka Murthy - Priyanka_Murthy@student.uml.edu
 
 List of Files -
 1) Project Report - Includes - Project details + Individual Contribution
@@ -35,9 +35,7 @@ Troubleshooting-
 - We analysed the logs, understood the sequence of operations for the container after every development loop execution. Did  exeperiemnts to achieve the results.
 
 --------------------------------------------------------------------------------------------------------------------------------
-Date - May 5, 2017
-Etherpad Links for details -
-
-http://etherpad2-p2plab.rhcloud.com/p/SDN_Project2
-
+Date - May 5, 2017 
+Etherpad Links for details - 
+http://etherpad2-p2plab.rhcloud.com/p/SDN_Project2 
 http://etherpad2-p2plab.rhcloud.com/p/Session2_SDNProj
