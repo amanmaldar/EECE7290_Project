@@ -31,8 +31,32 @@ Read and follow the steps mentioned in the documents below to track the project 
 2) Running Red5/Mist server
 - CORD runs apache server to host/run the service. We tried to install red5 server in place of Apache server. Again, CORD-POD broke evrytime.
 
-### Troubleshooting- 
-- We analysed the logs, understood the sequence of operations for the container after every development loop execution. Did  exeperiemnts to achieve the results.
+### Contribution-
+The contribution part mainly involves understanding different concepts in the CORD architecture and discussing their role in implementation of the application.  We made efforts towards developing small parts in the application, we faces problems, we analyzed the issues to understand how things work.
+Contributed together on
+-	understanding advanced concepts like  XOS, ONOS, Service assembly 	
+-	Implement the application as a whole.
+
+Individual contribution goes like,
+#### Aman Maldar
+-	Read service assemble documentation and executed HelloWorld application.
+-	Reused HelloWorld template to create tenant service.
+-	Executed multiple services to display results
+-	Created the documentation for example service demonstration.
+-	Created documentation for CORD environment setup using CloudLab.
+-	Made initial installation of red5 and mist server on the Linux for testing purpose.
+-	Wrote a sample python application (uppercase program) to install as a service in CORD.
+-	Made changes in the Ansible playbook to execute sample python application. 
+
+#### Priyanka Murthy
+-	Understood the installation process of CORD
+-	Set up the environment for application development.
+-	Managed the github repository to keep track of changes in different files/folders.
+-	Worked on troubleshooting logs of container to understand execution of Ansible script.
+-	Understood the role of docker container, VM in implementing the services.
+-	Helped in creating final report by compiling the details. 
+-	Worked on creating presentation slides.
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 Date - May 5, 2017 
