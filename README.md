@@ -36,6 +36,6 @@ Troubleshooting-
 
 --------------------------------------------------------------------------------------------------------------------------------
 Date - May 5, 2017 
-Etherpad Links for details - 
-http://etherpad2-p2plab.rhcloud.com/p/SDN_Project2 
-http://etherpad2-p2plab.rhcloud.com/p/Session2_SDNProj
+Etherpad Links for details - \n
+http://etherpad2-p2plab.rhcloud.com/p/SDN_Project2 \n
+http://etherpad2-p2plab.rhcloud.com/p/Session2_SDNProj \n
