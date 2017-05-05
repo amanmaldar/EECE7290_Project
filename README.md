@@ -32,7 +32,10 @@ What did not work?
 - CORD runs apache server to host/run the service. We tried to install red5 server in place of Apache server. Again, CORD-POD broke evrytime.
 
 Troubleshooting-
-- We analysed the logs, understood the sequence of operations for the container after every development loop execution. Did some exeperiemnts to achieve the results.
+- We analysed the logs, understood the sequence of operations for the container after every development loop execution. Did  exeperiemnts to achieve the results.
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 Date - May 5, 2017
+Etherpad Links for details -
+http://etherpad2-p2plab.rhcloud.com/p/SDN_Project2
+http://etherpad2-p2plab.rhcloud.com/p/Session2_SDNProj
