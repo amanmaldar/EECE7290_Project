@@ -4,7 +4,6 @@ Students –
 1)	Aman Maldar
 2)	Priyanka Murthy
 
-Date of submission – May 5, 2017
 -----------------------------------------------------------------------------------------------------------------------------------
 
 The repository consist of the documents which includes detailed steps and screenshots indicating the work progress for the project.
@@ -29,3 +28,6 @@ What did not work?
 
 Troubleshooting-
 - We analysed the logs, understood the sequence of operations for the container after every development loop execution. Did some exeperiemnts to achieve the results.
+
+
+Date - May 5, 2017
