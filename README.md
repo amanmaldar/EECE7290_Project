@@ -8,7 +8,7 @@ List of Files -
 1) Project Report - Includes - Project details + Individual Contribution
 2) CORD environement setup -  DIY Instruction
 3) Running and Changing HelloWorld Service - DIY Instruction
-4) Presenation Slides
+4) Presentation Slides
 -----------------------------------------------------------------------------------------------------------------------------------
 
 The repository consist of the documents which includes detailed steps and screenshots indicating the work progress for the project.
