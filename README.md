@@ -32,13 +32,13 @@ Read and follow the steps mentioned in the documents below to track the project 
 - CORD runs apache server to host/run the service. We tried to install red5 server in place of Apache server. Again, CORD-POD broke evrytime.
 
 ### Contribution-
-The contribution part mainly involves understanding different concepts in the CORD architecture and discussing their role in implementation of the application.  We made efforts towards developing small parts in the application, we faces problems, we analyzed the issues to understand how things work.
-Contributed together on
--	understanding advanced concepts like  XOS, ONOS, Service assembly 	
+The contribution part mainly involves understanding different concepts in the CORD architecture and discussing their role in implementation of the application.  We made efforts towards developing small parts in the application, we faced problems, we analyzed the issues to understand how things work.
+Contributed together on - 
+-	Understanding advanced concepts like  XOS, ONOS, Service assembly 	
 -	Implement the application as a whole.
 
-Individual contribution goes like,
-#### Aman Maldar
+###Individual contribution 
+Aman Maldar
 -	Read service assemble documentation and executed HelloWorld application.
 -	Reused HelloWorld template to create tenant service.
 -	Executed multiple services to display results
@@ -48,7 +48,7 @@ Individual contribution goes like,
 -	Wrote a sample python application (uppercase program) to install as a service in CORD.
 -	Made changes in the Ansible playbook to execute sample python application. 
 
-#### Priyanka Murthy
+Priyanka Murthy
 -	Understood the installation process of CORD
 -	Set up the environment for application development.
 -	Managed the github repository to keep track of changes in different files/folders.
@@ -56,6 +56,7 @@ Individual contribution goes like,
 -	Understood the role of docker container, VM in implementing the services.
 -	Helped in creating final report by compiling the details. 
 -	Worked on creating presentation slides.
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------
