@@ -1,8 +1,9 @@
-# EECE7290_Project
-Project - SDN for Secure Video Streaming: CORD Based Secure Video Streaming
+# SDN for Secure Video Streaming: CORD Based Secure Video Streaming
+
 Students –
 1)	Aman Maldar
 2)	Priyanka Murthy
+
 Date of submission – May 5, 2017
 -----------------------------------------------------------------------------------------------------------------------------------
 
